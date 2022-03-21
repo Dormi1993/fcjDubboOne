@@ -28,7 +28,7 @@
         <curator.version>2.12.0</curator.version>
         <!--        下面这里有改动-->
         <!--        <dubbo.version>2.8.4</dubbo.version>-->
-        <dubbo.version>2.6.7</dubbo.version>
+        <dubbo.version>2.6.9</dubbo.version>
 
         <resteasy.version>3.0.7.Final</resteasy.version>
         <okhttp.version>3.1.2</okhttp.version>
